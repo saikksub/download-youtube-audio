@@ -1,0 +1,23 @@
+{
+  "name": "download-youtube-audio",
+  "version": "1.0.0",
+  "description": "Download audio content from YouTube vide URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikksub/download-youtube-audio.git"
+  },
+  "keywords": [
+    "youtube",
+    "audio"
+  ],
+  "author": "saikksub <saikksub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saikksub/download-youtube-audio/issues"
+  },
+  "homepage": "https://github.com/saikksub/download-youtube-audio#readme"
+}
